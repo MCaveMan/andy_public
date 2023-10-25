@@ -26,3 +26,6 @@ jobs:
           echo "CLONED REPO"
           cd andy_public
           ls -la
+          pwd
+          git pull
+          git push origin main
