@@ -7,6 +7,17 @@
 浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+杭州综合,http://112.17.40.247/PLTV/88888888/224/3221229307/index.m3u8
+杭州综合,http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2809529842_-2070680032/PLTV/88888888/224/3221229307/index.m3u8
+杭州明珠,http://112.17.40.247/PLTV/88888888/224/3221229310/index.m3u8
+杭州明珠,http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2832762804_-1734620123/PLTV/88888888/224/3221229310/index.m3u8
+杭州生活,http://117.148.179.179/PLTV/88888888/224/3221229313/index.m3u8
+杭州生活,http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2848313566_-100055911/PLTV/88888888/224/3221229313/index.m3u8?icpid=88888888&RTS=1598860258&from=12&hms_devid=363&prioritypopid=12&online=1598860258
+杭州影视,http://117.148.179.179/PLTV/88888888/224/3221229377/index.m3u8
+杭州影视,http://live.hoolo.tv/hztv4/sd/live.m3u8
+杭州青少体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
+杭州青少体育,http://live.hoolo.tv/hztv5/sd/live.m3u8
+杭州余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 
 央视频道,#genre#
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
