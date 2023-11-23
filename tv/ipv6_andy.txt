@@ -12,7 +12,7 @@
 杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1700726404-0-0-08132884084d12eb21d8d268db8f3aa9
 青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1700726404-0-0-399b6d1fe2c1f1303c304a54e74a06b1
 杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1700726405-0-0-0e37078710f55722423a2d3146363b2c
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1700719209-0-0-20f4b99874697a57c71d92a150c76021
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1700726406-0-0-454550f0d32533faf97ae14af3b935dd
 
 央视频道,#genre#
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
