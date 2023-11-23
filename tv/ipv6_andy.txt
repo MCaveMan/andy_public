@@ -7,7 +7,7 @@
 浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1700719201-0-0-4805fe94c922e8139786706278cffa84
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1700726402-0-0-9f3317225d6f98fb3e049084f30739f5
 西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1700719203-0-0-882ec805eef13eca72fe4284f2e853d0
 杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1700719206-0-0-8b986704ec1ec4533ee90f280dd48028
 青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1700719208-0-0-a026917742bbd6e743f8a78de4f971f7
