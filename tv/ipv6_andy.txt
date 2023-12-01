@@ -7,12 +7,12 @@
 浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1701432003-0-0-73e5040ac1beeb4355fbd4613b1c8bc2
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1701432004-0-0-f733b4be5623e2854b4000a0bd969a08
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1701432005-0-0-ead66cafc3f79ebb6af68346bf863428
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1701432006-0-0-0c012a35e631a45b220dd10686206cb4
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1701432007-0-0-027136e854933a4c8ef8d7dd93e7a1e6
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1701432007-0-0-e9086755bf4fb9efed342101b51a6d96
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1701439201-0-0-f0118b4c33e454e903f084f75221381d
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1701439202-0-0-503186cef65613b814929e35e14478b8
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1701439203-0-0-6fc0e3106a021974e310b3e55e0a3f59
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1701439206-0-0-145976bf5d5a0e01d448ed0586390566
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1701439208-0-0-0bf287c11bea0efd7c8603feba479e11
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1701439209-0-0-de76286ee53981ca04794c98225ac0e8
 
 央视频道,#genre#
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
@@ -156,7 +156,7 @@ NEWTV欢乐剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/
 Bestv导视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001162/index.m3u8
 Bestv赛事1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001359/index.m3u8
 Bestv赛事2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001388/index.m3u8
-Bestv赛事3,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001152/index.m3u8
+Bestv赛事3,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001149/index.m3u8
 Bestv赛事4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u8
 
 求索系列,#genre#
@@ -164,12 +164,6 @@ Bestv赛事4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/in
 求索记录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-
-海南频道,#genre#
-海南少儿,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?fmmv6
-海南文旅,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?fmmv6
-海南公共,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?fmmv6
-海南自贸,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?fmmv6
 
 购物频道,#genre#
 东方购物,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001040/index.m3u8
