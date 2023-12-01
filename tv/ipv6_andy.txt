@@ -7,12 +7,12 @@
 浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1701424804-0-0-c94e40a4caf29b5fa8120735b870a156
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1701424805-0-0-539f3d4e11d52c97a50c7aab46a022e6
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1701424806-0-0-0727d6b5dbf090aabd2b14055979062e
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1701424807-0-0-9aa0a3d57e7db7efe91b516a69e43368
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1701424807-0-0-c48dd918b102869a4430db64f114122b
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1701424809-0-0-43e419ecce3ab4d1d58491c3faecd9c7
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1701432003-0-0-73e5040ac1beeb4355fbd4613b1c8bc2
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1701432004-0-0-f733b4be5623e2854b4000a0bd969a08
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1701432005-0-0-ead66cafc3f79ebb6af68346bf863428
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1701432006-0-0-0c012a35e631a45b220dd10686206cb4
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1701432007-0-0-027136e854933a4c8ef8d7dd93e7a1e6
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1701432007-0-0-e9086755bf4fb9efed342101b51a6d96
 
 央视频道,#genre#
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
@@ -97,7 +97,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 西藏卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
 兵团卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001066/index.m3u8
 延边卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
-厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
+厦门卫视,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 中国教育1台,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
 中国教育2台,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
 中国教育4台,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
@@ -117,7 +117,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 中国天气,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
 
 NewTV系列,#genre#
-NEWTV超级综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/1.m3u8
+NEWTV超级综艺,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
 NEWTV超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 NEWTV超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 NEWTV超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
