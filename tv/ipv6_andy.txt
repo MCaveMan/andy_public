@@ -7,12 +7,12 @@
 浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1703167202-0-0-27760ceface682e0e3bb9899294adba3
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1703167203-0-0-7a0557aacae49bfb93fb82b884c647c3
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1703167204-0-0-c3d414e6046e9c3c55a0e0d8e82760be
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1703167208-0-0-52404bcb9ef668fcf56879b16910e140
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1703167208-0-0-72a0607d689c4a3a8f43847180ce0dde
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1703167209-0-0-69f3c925eaa3565e1f08de63e253678f
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1703174403-0-0-460938709c47d9cd0681e1cdd20759bb
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1703174403-0-0-321e2cdc907ffaecedd09be0d135cd86
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1703174404-0-0-4056003fe216aaac3867614b760de790
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1703174405-0-0-3d2d944751df603c890e4c1b0fa84a9e
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1703174405-0-0-c1bca69a0a98ca31c885367729a83858
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1703174406-0-0-a6c7c8665ef98fcba8219be0228a1da7
 
 央视频道,#genre#
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
@@ -92,6 +92,8 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 吉林卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001225/index.m3u8
 云南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
 三沙卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8
+大湾区卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+安多卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 青海卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001450/index.m3u8
 新疆卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001065/index.m3u8
 西藏卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
@@ -118,6 +120,8 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 动漫秀场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
 哈哈炫动,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
 游戏风云,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
+哒啵电竞,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/1.m3u8
+哒啵赛事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8
 家庭理财,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001278/index.m3u8
 财富天下,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8
 中国天气,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
