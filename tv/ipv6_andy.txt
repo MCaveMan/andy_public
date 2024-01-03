@@ -5,13 +5,13 @@
 青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1704268807-0-0-237c7b141157de1f742eed705caff7a2
 杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1704268809-0-0-ec09b619b3590327374246623215517e
 文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1704268810-0-0-173985d36a5a9b6e49fbd148acba31dc
-浙江民生休闲,http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
-浙江钱江都市,http://ali-vl.cztv.com/channels/lantian/channel002/360p.m3u8
-浙江经视,http://ali-vl.cztv.com/channels/lantian/channel003/360p.m3u8
-浙江教科影视,http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
-浙江公共新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
-浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-浙江国际,http://ali-vl.cztv.com/channels/lantian/channel010/360p.m3u8
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/360p.m3u8
+浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/360p.m3u8
+浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/360p.m3u8
+浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel004/360p.m3u8
+浙江公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/360p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/360p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/360p.m3u8
 
 央视频道,#genre#
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
