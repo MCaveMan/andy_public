@@ -7,19 +7,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1704376804-0-0-94f09f46f794925628a6b0c3136a874e
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1704376805-0-0-f60e50bcc6b1d6cb58d99fee073605e5
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1704376806-0-0-fa200fb495fd161343e3003a50dafa5d
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1704376807-0-0-357bb62260bbe205ce851af5bfd483da
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1704376809-0-0-b4c843dd94708e060f96724a296afa23
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1704376810-0-0-b79a536ae3fd94ef12f9fded945ae6a7
-浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1704384002-0-0-951bfbce58ed076bf397f431a20abf7d
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1704384004-0-0-fd934419ad7e8917079c9f283ad51477
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1704384008-0-0-3c6d53501addb07b16c274f8e7f34c45
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1704384008-0-0-33be0407e3a9b888979ec6e24241408e
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1704384009-0-0-a55490a50f8cb3f3c2dbb36da1bb2652
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1704384011-0-0-5ca1e45159e3198fba5fefd19dab4856
 
 央视频道,#genre#
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
