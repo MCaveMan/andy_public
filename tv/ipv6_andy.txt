@@ -7,12 +7,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1704348002-0-0-dcd1304564fd9de1a1e7ab7af8418872
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1704348003-0-0-d1ad65a2dfd30fdb65f233024b215578
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1704348005-0-0-23092c1378877ee939c30c857a530a32
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1704348006-0-0-331aa95a6687d3d56590f444ea29e5b3
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1704348007-0-0-8a1a32c73781e12a05f1e0b020c6d18f
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1704348008-0-0-41b680a00ab0a12af82247c33595f207
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1704355202-0-0-64f03545440eaa699f5a7c6140716301
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1704355204-0-0-1a296eb83f695e2540ebb6c97f15ca8c
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1704355207-0-0-6b4bd3603b6d7c62b90a0de9607876db
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1704355208-0-0-b8c4192525bd51a2507129b6f58c055a
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1704355208-0-0-aa929ab5c1835688e7f5107eee7af443
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1704355209-0-0-b78b2fdf326a1467010a04353cc1ecce
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江经视,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -117,7 +117,7 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 全纪实,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
 都市剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
 欢笑剧场,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
-纪实科教,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+纪实科教,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 卡酷动画,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
 金鹰纪实,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
 金鹰卡通,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
