@@ -32,12 +32,12 @@
 浙江公共新闻,http://60.12.183.46:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江少儿,http://183.134.3.22:8888/newlive/live/hls/54/live.m3u8
 浙江少儿,http://60.12.183.46:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1704607201-0-0-7ae12b0faebd6c16d642e91b16bf8104
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1704607202-0-0-1f3ad2351b37b34a66aa493aed1e1e98
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1704607203-0-0-bcf95202cf06a837ae62d8af14536cc7
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1704607203-0-0-47c51d6a759229b3924f110f7dce9dca
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1704607204-0-0-f688f4e61b13ed7423bdf82dc0dc8bf7
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1704607207-0-0-7fa9c787857b0d4ffe95968e92a013ce
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1704614402-0-0-598745ea5390695b6daa743083021b7a
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1704614403-0-0-eb799e7161748821e47b699cb79c75b7
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1704614403-0-0-00c888f18fcba6c4308cf64c616c384e
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1704614404-0-0-45f96dd1d86c628aa8c3c9b767047d22
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1704614406-0-0-69e42284921614a59afb8c7b317cfeee
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1704614407-0-0-385b823cece2f60c2b44762bb14e6a8c
 
 央视频道,#genre#
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
