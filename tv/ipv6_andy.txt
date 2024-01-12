@@ -8,12 +8,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1705024803-0-0-32a1b9274ec8cb914de3f6f167a976ac
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1705024804-0-0-b7527024f4d673a267d86fb83053f80c
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1705024805-0-0-ea5f5828b165ea14c3eb40686a7af48f
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1705024805-0-0-0163a4fc526f68ed18121119005add1c
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1705024806-0-0-524abc65b8879c1fe89b6816ea67664b
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1705024807-0-0-0f817efc919e426ca3b3660177cc7c0e
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1705032002-0-0-3082f3498580ee8694b4704b52e9c525
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1705032003-0-0-a8b1c5edb5c1de985cf5e7c20fdcb57f
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1705032004-0-0-f053ea6d9997d6b63af34b34fa963c48
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1705032008-0-0-0e984d077ab03d586764fffbae009c26
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1705032009-0-0-23457fea37ec60ff24098ddff9b83f20
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1705032010-0-0-a75045bcd8f835c563e18aed5c6cebd6
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -59,7 +59,6 @@ CCTV15,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3
 CCTV16,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
 CCTV17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
 CCTV16,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
-CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CHC动作电影,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC家庭影院,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
@@ -84,8 +83,9 @@ CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 卫视频道,#genre#
-凤凰中文,https://0472.org/hls/fhzw.m3u8?youzaiSB
-凤凰资讯,https://0472.org/hls/fhzx.m3u8?youzaiSB
+凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8?youzaiSB
+凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8?youzaiSB
+凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8?youzaiSB
 北京卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 湖南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
 东方卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
