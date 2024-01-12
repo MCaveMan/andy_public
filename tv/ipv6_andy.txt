@@ -24,19 +24,19 @@
 浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 浙江卫视,http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/zjwshd8m/8000000/mnf.m3u8
 浙江卫视,http://124.160.90.106:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江钱江都市,http://60.12.183.46:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江经视,http://183.134.3.22:8888/newlive/live/hls/51/live.m3u8
+浙江钱江都市,http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/01.m3u8?fmt=ts2hls
+浙江经视,http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233008/01.m3u8?fmt=ts2hls
 浙江经视,http://115.231.200.110:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江经视,http://124.160.90.106:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江经视,http://60.12.183.46:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江教科影视,http://115.231.200.110:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江教科影视,http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233002/01.m3u8?fmt=ts2hls
 浙江教科影视,http://60.12.183.46:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江民生休闲,http://183.134.3.22:8888/newlive/live/hls/53/live.m3u8
+浙江民生休闲,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/01.m3u8?fmt=ts2hls
 浙江民生休闲,http://123.154.116.25:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江公共新闻,http://115.231.200.110:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江公共新闻,http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/01.m3u8?fmt=ts2hls
 浙江公共新闻,http://124.160.90.106:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江公共新闻,http://60.12.183.46:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江少儿,http://183.134.3.22:8888/newlive/live/hls/54/live.m3u8
+浙江少儿,http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/01.m3u8?fmt=ts2hls
 浙江少儿,http://60.12.183.46:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 
 央视频道,#genre#
@@ -174,6 +174,8 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_10
 江苏移动8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 香港8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
+欢笑剧场4K,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230782/01.m3u8?fmt=ts2hls
+求索4K,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232776/01.m3u8?fmt=ts2hls
 
 NewTV系列,#genre#
 newtv超级综艺,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
