@@ -8,12 +8,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1705154402-0-0-82a9cb05a89234f7e245fe5f640384dc
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1705154402-0-0-8cf08c29095e7c0772475f705a3eba34
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1705154403-0-0-12f04a271c975150db9903c29ac4659b
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1705154404-0-0-603109446c6f4c660e00a21231f68d96
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1705154405-0-0-aca7820a45694e65c47033fd2cdb6113
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1705154405-0-0-9cf31f8e8f0c6cf111f6a633125d0c77
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1705161602-0-0-ba69edbc483be2e53b9875663af18654
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1705161603-0-0-f314b6ba8fd1c24b6c5095efbd12da7f
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1705161605-0-0-8db6eac84b6a99950b2177e5addc5fcb
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1705161605-0-0-69f0f5324ba35a009004d8d189c87c42
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1705161606-0-0-f959a48e1f458cc0d78a4159cb902be1
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1705161607-0-0-a734b71b2cbcb744ce6f62cc45c319be
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -236,7 +236,7 @@ Bestv赛事6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/in
 Bestv赛事7,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001154/index.m3u8
 
 陕西频道,#genre#
-null,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
+null,http://[2409:8087:7001:20:3::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
 null,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
 null,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8
 null,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8
