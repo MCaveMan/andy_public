@@ -8,12 +8,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1705111202-0-0-646a0c5cfac07dc58d7a411f429cced3
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1705111204-0-0-1ecfdad64aa8433991617e97232d03d0
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1705111204-0-0-d05d0dc2ebf6a27c1a77b281494b1a1c
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1705111205-0-0-1ad2c9a628b82c7aec5ca327dd93b00c
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1705111206-0-0-27a4a390aae3688634715c2b7f6e0a82
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1705111208-0-0-5514fb9fbab9d5444bf19ca45d5bdc2e
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1705118402-0-0-d035e64843abcf0b367ad5a1d9d7308c
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1705118403-0-0-c356c61fac29d3829875e722718c7133
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1705118403-0-0-cec3e748a36f7a3ba715caceba163806
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1705118405-0-0-31c234f074fb920bfdfecc1468ab747e
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1705118407-0-0-08038b4c5921e6dbdae540a702bb8835
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1705118408-0-0-746b5d508663579d192915cc67b59a13
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -83,9 +83,9 @@ CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 卫视频道,#genre#
-凤凰中文,https://0472.org/hls/youzaiSB/fhzw.m3u8
-凤凰资讯,https://0472.org/hls/youzaiSB/fhzx.m3u8
-凤凰香港,https://0472.org/hls/youzaiSB/fhhk.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 北京卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 湖南卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
 东方卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
