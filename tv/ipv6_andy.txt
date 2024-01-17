@@ -38,6 +38,9 @@
 浙江公共新闻,http://60.12.183.46:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江少儿,http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/01.m3u8?fmt=ts2hls
 浙江少儿,http://60.12.183.46:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+翡翠台1,http://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+翡翠台2,http://ictv.91tv.top:9901/tsfile/live/1006_1.m3u8?key=txiptv
+翡翠台3,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
 
 央视频道,#genre#
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
