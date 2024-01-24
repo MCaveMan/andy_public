@@ -8,12 +8,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1706083201-0-0-e75b5fb2eb6e08ca7cc8bafb47eee0f3
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1706083203-0-0-b7836cc85be42a81aa2a5866b863c311
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1706083204-0-0-a5d365f4ca65d25dbd79a96f493118c6
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1706083205-0-0-dcd604a49369a916c8b371e77fbfd3ba
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1706083205-0-0-4b2816bda03bff932269a583ac552a52
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1706083206-0-0-d7d893e187d52fc07c7c2d108b2c8c3c
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1706090401-0-0-4dd2490b13f915ca87982f6afc284687
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1706090402-0-0-e9669bc925bab6034beb9c99b3611d54
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1706090404-0-0-2d6af5b8c8a80456e389a670440eb628
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1706090405-0-0-489150c1257ac9adf7772ef8baa49914
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1706090406-0-0-4d9e4d43411847984c73f2fb17a08b66
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1706090407-0-0-ba4fcdb9434b163cb85fa456c06784a7
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -43,6 +43,8 @@
 浙江经济广播,https://ali-m-l.cztv.com/channels/lantian/fm95/128k.m3u8
 浙江城市之声,https://ali-m-l.cztv.com/channels/lantian/fm107/128k.m3u8
 浙江民生广播,https://ali-m-l.cztv.com/channels/lantian/fm996/128k.m3u8
+杭州交通广播,http://live.xmcdn.com/live/632/64.m3u8
+杭州交通广播,http://ls.qingting.fm/live/1133.m3u8
 翡翠台1,http://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台2,http://ictv.91tv.top:9901/tsfile/live/1006_1.m3u8?key=txiptv
 翡翠台3,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
