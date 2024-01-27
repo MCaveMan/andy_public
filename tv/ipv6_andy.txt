@@ -8,12 +8,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1706371202-0-0-3b2b80c020eaae286972f6738e8e1c8c
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1706371205-0-0-b6a9e8123001a05ae83f6005e8653c5f
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1706371206-0-0-eb87d1624eaf65dfb4f925d2a00845ea
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1706371207-0-0-8b5cdb6cebf47e3155ec7574b14f5df9
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1706371207-0-0-0a4c56a0ac219abb4151d5ecd35435b0
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1706371208-0-0-5086554dbdd687a561a116dadbe0518c
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1706378402-0-0-d3be127e1b02e6cfcefcb99e89508ac6
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1706378404-0-0-41d265c93d74bd4d6a751fadea01eaaf
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1706378405-0-0-c8ed0893da02770186bbbc57740cec92
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1706378405-0-0-b1b4621be88ab86fe7d3c9f64417b7c4
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1706378406-0-0-9d04e73ea923889caf80b9389eb1bd9f
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1706378408-0-0-b93e479424d8c1ae18cdc045192fc019
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -50,17 +50,13 @@
 翡翠台3,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=571187
 
 体育频道,#genre#
+CCTV5+,http://mv.shicheng.wang:12024/live/CCTV5p高清/index.m3u8
 劲爆体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
-咪咕体育,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
-咪咕综合体育,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226504/1.m3u8
+劲爆体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000008/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000008&livemode=1&stbId=3
+CCTV5+,http://mv.shicheng.wang:12024/live/CCTV5p高清/index.m3u8
 上海五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-上海五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
-辽宁体育,http://218.25.44.2:8899/hls/53/index.m3u8
-辽宁体育,https://dispatchnew.ulivetv.net/v/live/cgxamzvb8vk0.m3u8?stream_id=cgxamzvb8vk0&token=c0vzuc7wqkzk
-辽宁体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
-咪咕综合体育,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226504/1.m3u8
+百视通体育 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225837/index.m3u8
+百视通体育 720,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225846/index.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd?世界杯WorldCup
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
@@ -71,9 +67,7 @@ CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来篮球,https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
 山东体育,http://120.224.23.34:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-TVS-体育,http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8 
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-先锋乒羽,http://117.190.144.101:9901/tsfile/live/0112_1.m3u8
 CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
 CCTV风云足球,http://60.205.114.16/ysp/fyzq.m3u8
 CCTV风云足球,https://tv.smart-chat.net/iptv.php?id=102900&num=1
@@ -82,6 +76,12 @@ CCTV风云足球,http://hlsbkmgsplive.miguvideo.com/ws_v/2018/fyzq/fyzq711/1000/
 CCTV风云足球,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=fengyunzuqiu_1500&/PLTV/hls.smil.m3u8
 CCTV风云足球,http://www.tvzb.com/iptv/tvzb82.php?id=fyzq
 CCTV风云足球,http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
+先锋乒羽,http://117.190.144.101:9901/tsfile/live/0112_1.m3u8
+精品体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
+精品IPV6,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+超级IPV6,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+风云IPV6,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+风云IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 央视频道,#genre#
 CCTV1,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
