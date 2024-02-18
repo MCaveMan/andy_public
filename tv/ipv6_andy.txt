@@ -8,12 +8,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1708228802-0-0-261530f1588d2274360b4dda08d9385e
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1708228803-0-0-cf2e4367d9170630440bc5fd7df1bca9
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1708228804-0-0-017b052f63d445e7a7386cca760fc811
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1708228805-0-0-9ba6adffeaa6ab79fb03133a8551dbd3
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1708228806-0-0-fdcf826e92ad0ad6fcb56bf07c54f24c
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1708228806-0-0-d620abf5c1fad4eb653f65a888239174
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1708236002-0-0-aace94d60d3ed93550394bd9bdf08e63
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1708236002-0-0-8de35a3fec7b324b8e69efd45e9d58e7
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1708236004-0-0-1c907b6309b67d88f88fbd1a0516ac64
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1708236005-0-0-64bf18248a45b77961624b2e2bb5a43f
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1708236007-0-0-7cdd6d8da0c315e36babba730da9a7aa
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1708236008-0-0-02ef13d096d5d6ca55e16d2c11d037ec
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -234,6 +234,8 @@ CCTV17,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 老故事,http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 财富天下,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226350/index.m3u8
 置业,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
+家庭理财,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226247/index.m3u8
+劲爆体育,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226239/index.m3u8
 
 4K8K,#genre#
 LoveNrture,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
