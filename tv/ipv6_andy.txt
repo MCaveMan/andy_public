@@ -8,12 +8,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1708956003-0-0-85532f4ea338d8d3b928791ebbbac251
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1708956004-0-0-398cc764e0ad18e0596a24fb1fe197a7
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1708956004-0-0-5a1ecb830dc11eaff6f0af53f7c74b48
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1708956005-0-0-effe35d945598b65b604c0e70ce5b452
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1708956006-0-0-cbb9bf9f02d8a305265a4d71cbd56fc8
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1708956007-0-0-282175b6a2ceae8800947e4c2aa60048
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1708963201-0-0-7d061e4d4eaaf1de7c2edff0572f7c6c
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1708963203-0-0-f3b1b698233e0923aff5a66e289e1bfe
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1708963205-0-0-5c6a0a53b4c5d83de4d99a79670aeca9
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1708963205-0-0-cff4ab37f2cede50c69ca4cf39c88f84
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1708963206-0-0-da86feb14d933fb9644915c7efeac656
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1708963207-0-0-70c94527a533b15968d20a6964c0a40b
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -84,7 +84,7 @@ CCTV风云足球,http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/fyzqHD/__op/defaul
 风云IPV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 央视频道,#genre#
-CCTV1,http://[2409:8087:7000:20::11]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
+CCTV1,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
 CCTV2,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
 CCTV3,http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 CCTV4,http://[2409:8087:7000:20::204]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
