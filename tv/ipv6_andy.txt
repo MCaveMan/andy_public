@@ -8,12 +8,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1711980002-0-0-f2e8802db0bacb1db028e44d1a813ef7
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1711980004-0-0-751e1ceb85d4e556ccac75c9a6187762
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1711980004-0-0-b3bab99226407e3388a6e5021d04c468
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1711980005-0-0-6f74b93f1c05b1e79cf31d27c5baaac5
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1711980006-0-0-2bbe123fcbc707e54cfa26c28721c9d5
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1711980008-0-0-6bcacdb55496eead87d8e4b392dbab03
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1711987202-0-0-63021a5f3f6ec0afb059193f5c4aacf1
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1711987203-0-0-7fc7805819a5f86fb6a10bb105290307
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1711987205-0-0-bc3166eb16c6a06bc3216f692d727a7e
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1711987208-0-0-d3a7fcc0cbe9ac1e2287f3b87f3a5479
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1711987209-0-0-ddfacae97bdd867002605fb1437246ff
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1711987209-0-0-5fc8178ed08d4f1c31d2ea370a3e1f14
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -269,7 +269,7 @@ CCTV风云足球,http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/fyzqHD/__op/defaul
 甘肃卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 吉林卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 云南卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-三沙卫视,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226324/1/index.m3u8?fmt=ts2hls
+三沙卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 青海卫视,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 新疆卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 西藏卫视,http://[2409:8087:7001:20:2::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/index.m3u8
