@@ -3,7 +3,7 @@
 杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1713571202-0-0-2d403244e4fd2bc257ed6384bacd5eb4
 西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1713571204-0-0-d1f0acee50d4b16f968d78999d14b1e2
 杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1713578403-0-0-d166871c55e361ef13f4108501ea4de9
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1713578404-0-0-0525f4a1bff2d662f789a61f2e621145
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1713600008-0-0-1e5291fd403907eaa083c3c803c13d78
 杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1713578405-0-0-80472093ff1ba403ab1d0621c6de7b8f
 文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1713556806-0-0-991749b845d009ef692bb92b5819ca89
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
