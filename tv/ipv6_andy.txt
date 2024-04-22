@@ -1,11 +1,11 @@
 浙江频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1713780002-0-0-cba4595ba5f6893e4c298f030805e281
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1713780003-0-0-75c8030fabd8153c55f5a028b06b884d
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1713780004-0-0-e9d99df9f4ee784fc82755cb910a1a37
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1713780006-0-0-8a1829dd0bbafb6feb2e948913334b0b
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1713780007-0-0-5c34dd6207af6552b8ba066f890685a8
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1713772807-0-0-23a214723f794b852bc00cd994b67609
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1713787202-0-0-d8f15f68c025210155ceed978cb8db18
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1713787202-0-0-b4849d13122dd87692e56acbb1a517b1
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1713787204-0-0-4ede3259714e9a24409f3216f8c1ed1e
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1713787205-0-0-af1c2e1fb1466e90365ecdccb5f2ef4b
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1713787205-0-0-e651b6654b1b46c7a44abba19612ed90
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1713787206-0-0-01bb81fe35196fc116b2a3a2954576ef
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -257,6 +257,7 @@ CCTV风云足球,http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/fyzqHD/__op/defaul
 中国教育2台,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 中国教育3台,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中国教育4台,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
 CGTN,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 
