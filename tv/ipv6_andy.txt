@@ -1,11 +1,11 @@
 浙江频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1714737603-0-0-ef17c28a3b8106ef945ec409bd94b97c
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1714737606-0-0-0a93c1e12db0f77230b6a93c66df2c86
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1714737607-0-0-d3bbb08f3ef718cf6d2ca622602721bc
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1714737607-0-0-13762d07d26a56e0170f46d8f68328c8
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1714737608-0-0-7f69081737c51bda8d345d323cee412b
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1714737609-0-0-446e02c09a60219dcfe576472d2f6a8e
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1714744803-0-0-1b86d18d5ebafe22476ed61e2544e3ae
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1714744803-0-0-b551c78a6d9eafa85dcc9982bbb8643f
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1714744804-0-0-761b4e346c1c6ce56c6c1e2813be036c
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1714744806-0-0-ccef0f9b1c6c471e98e12e96e1e363db
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1714744806-0-0-1234c55f14baa7e15924b523431faab7
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1714744807-0-0-a30efae9e2417dd4fd984c3d5b721b0c
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -61,7 +61,6 @@ CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV16,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225893/index.m3u8
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-CCTV8K,https://pi.0472.org/live/cctv8k.m3u8?token=241703
 CCTV1,mitv://generationnexxxt.com:19806/f1e3bc8a344e49dab603272c8fd2641e
 CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
 CCTV2,mitv://generationnexxxt.com:19806/ce08ee69cea5402c99bf285704eac3e5
