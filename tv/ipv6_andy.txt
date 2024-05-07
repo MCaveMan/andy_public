@@ -1,11 +1,11 @@
 浙江频道,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1715104802-0-0-311162b59bf304cca907a1f7902c0aad
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1715104803-0-0-4e7115e097e56662a41a362fbfc10b71
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1715104805-0-0-0c78b133d0eb11681ff0ad4a9abf2291
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1715104806-0-0-154e4caef683cb3abcea86904026d8a3
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1715104807-0-0-d5f9e91ef3b859c78bd87806f0eaee16
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1715104808-0-0-8c793c2ebf05f41f2272c1bed4b99744
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1715112002-0-0-9d8bd61fe837d6881549640a078d03ce
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1715112002-0-0-80e5cafbeb8a43a5f9a62194c0146e8e
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1715112003-0-0-a412f22a8f3c79193b771f7cf0ecb9e5
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1715112006-0-0-998c7bd94415527653b7df3ed1b55a3f
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1715112007-0-0-7235b7dd0f0510e79b8db777deda2cc9
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1715112008-0-0-3a958c39228cdbc0eae79cd07a679648
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
