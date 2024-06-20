@@ -8,12 +8,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1718870402-0-0-fb8882d6ef72a705f911bf3a4bcbfad7
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1718870403-0-0-97efa39b4b9742376ae7ac1cd013f5bb
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1718870403-0-0-ef3dadc610e9b50a20d654dcdbeb5ad0
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1718870404-0-0-7eb3a16a2dd4dd13743250f44378f227
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1718870405-0-0-f448e3859ac48a60a164604beec3323b
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1718870406-0-0-4f91367588440d6a1866c0c1d2f4a3a5
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1718877603-0-0-462ea9ecf071907d2220e24f2f660d3e
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1718877604-0-0-0ee42efc3399f30620dc3d823d042b1a
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1718877604-0-0-c883c25fb777f5ee7f3b947a4271c008
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1718877605-0-0-1a5d2ccfe2e9f72402db379450ef8d1d
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1718877606-0-0-cc24fc4f00dd32b4bda907cb19e28089
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1718877606-0-0-31c8824e4f1a8477912bed64f2633b27
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -191,4 +191,18 @@ CCTV17,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 中国教育1台,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 中国教育2台,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 中国教育4台,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+
+体育,#genre#
+咪咕运动「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+咪咕直播 𝟙「IPV6」,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+咪咕直播 𝟚「IPV6」,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕直播 𝟛「IPV6」,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+咪咕直播 𝟜「IPV6」,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+BesTV 𝟙「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV 𝟚「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV 𝟛「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV 𝟜「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV 𝟝「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV 𝟞「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV 𝟟「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
