@@ -8,12 +8,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1719122402-0-0-da6d7e4652071855d0ae5fbea4e0cbc9
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1719122403-0-0-ed9fa9c09ad637bed9ca992e24907e4d
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1719122404-0-0-0c2a45e62840ced116bfb40bd1e41f45
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1719122405-0-0-e93a9dff3abacb636115cad5946a032f
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1719122406-0-0-0ca40f66bc284f714c7000ac9be28aa0
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1719122407-0-0-0d8392a902dc7cf63b572e862eba8a41
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1719136802-0-0-5f21b90d3e026af7f9b4764957b60095
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1719136803-0-0-52c79674cf00f4cc12d2e7a32f44a33c
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1719136804-0-0-cbde161388d4f6eaccbce79430f3aaca
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1719136804-0-0-89a58d70c2aca9da2f7f890666775824
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1719136805-0-0-7f9020bd6a7cf4fba53d99ed8e06725b
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1719136806-0-0-abeafa1df5c82cbaaff8d0003e60915a
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -193,7 +193,7 @@ CCTV17,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 中国教育4台,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 体育,#genre#
-咪咕运动「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+咪咕全民热练,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 咪咕直播 𝟙「IPV6」,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 咪咕直播 𝟚「IPV6」,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕直播 𝟛「IPV6」,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
