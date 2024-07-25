@@ -8,12 +8,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1721944802-0-0-ff9d10165f2673c8e11b4255e7b7d6d0
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1721944803-0-0-17d6aa9b1c1beaa7d8d34ad8eb5e8ad2
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1721944803-0-0-75e3f6629f76d38d30e8e6f38a4483fc
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1721944804-0-0-56e83279ce19a1fa9b92ff3db5fede5f
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1721944805-0-0-97b9bfc53227e9f5e232c343676f672b
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1721944805-0-0-15116b347024e6a7cab894ab1718a539
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1721952003-0-0-45d12f4e49bee17d3616eb1e7b8da2fe
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1721952003-0-0-a3ebc54f5d457b7506b46c5ae53a11c4
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1721952004-0-0-88e815a4f8bb527abd88f1b3cb077254
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1721952005-0-0-19701b9b572212909cb0a223c9c41327
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1721952005-0-0-9e660f3c37f375ce581a059a2714e3b0
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1721952006-0-0-bb530d9c49954f6b3e0005a2f7e88a83
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -157,7 +157,7 @@ CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
 中国教育4台,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 YouTube,#genre#
-CCTV 4,https://tv.iill.top/youtube/LiveNow24H
+CCTV4,https://tv.iill.top/youtube/LiveNow24H
 鳳凰衛視資訊,https://tv.iill.top/youtube/phoenixtvhk
 中天新闻,https://tv.iill.top/youtube/CtiNews
 中天新闻,https://tv.iill.top/youtube/WPfPjbOLNfE
