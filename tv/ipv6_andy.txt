@@ -8,12 +8,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1722225602-0-0-0431cc802d4d6b93c9cf1c44fa75457f
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1722225603-0-0-df831e318cac3378228a4d2bdf61fabc
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1722225604-0-0-08f1c346a18acfe05ae1fd0b20f82aaf
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1722225604-0-0-8dab537b1fa89e11fbf8764825073bf2
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1722225605-0-0-7a88d26378ab301e872755a3743c3f18
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1722225606-0-0-3fb0e525c73f225907389c223f9c1180
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1722232802-0-0-7fe843bfacff17e8d753b99998754964
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1722232803-0-0-6f7e9ffb3bdbb93dbb4b617a5542ba3d
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1722232803-0-0-5fb8fb3e4569a21d71c33a67eee84e47
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1722232804-0-0-8120e49f5578f2d5abc4ac32746e59f1
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1722232805-0-0-4b190be613afb5522267fcacfb9566a0
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1722232805-0-0-7feb2287c9420060fae0382de30268f7
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -36,7 +36,7 @@ CCTV5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 CCTV5+,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV7,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV8,,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV9,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV10,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
 CCTV11,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
@@ -47,12 +47,12 @@ CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-CGTN,https://live.cgtn.com/1000/prog_index.m3u8
-CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
-CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
-CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN,https://0472.org/hls/cgtn.m3u8
+CGTN纪录,https://0472.org/hls/cgtnd.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 咪咕直播,#genre#
 咪咕直播 𝟙「IPV6」,http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
