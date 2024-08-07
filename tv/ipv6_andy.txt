@@ -8,12 +8,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1723032002-0-0-06809b57dc316f26010d4beada6d0aff
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1723032003-0-0-5ac619bd36a60b215daa2ed8b8112e5f
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1723032003-0-0-b47dcd6b11b1fa129891963bd02c528b
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1723032004-0-0-8150525816fd333ba31a8b2c751b1677
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1723032005-0-0-e91468fcfe8495417f4c40dc160d54a9
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1723032005-0-0-a66fe56927cba37367c8be196c665ff4
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1723039202-0-0-133ffaa586334986f4379226ff9b5525
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1723039202-0-0-015fe8b527eccad92cbe6fedcafc18c9
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1723039203-0-0-79a5db7b4a66580830903d2a178b0ee6
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1723039204-0-0-b0d6f5feed73b4104ef6b63c508863fe
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1723039205-0-0-f34b0720c0efab0f00515a393da5e889
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1723039205-0-0-3adc6deb1e8e555ee7a2b35accd71053
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -46,7 +46,7 @@ CCTV14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV4K,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024081302.m3u8?key=txiptv&playlive=1&authid=0
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
