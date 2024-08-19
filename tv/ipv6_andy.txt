@@ -8,12 +8,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1724076002-0-0-c54532dd5d838b8728e1fbe757287f8e
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1724076003-0-0-26fb215e8eeb8df83a44f1356751ce11
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1724076004-0-0-edd71d460b03446afe1a4e1d954a41d4
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1724076004-0-0-d6c060984ac5c377568eebad9bda0de7
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1724076005-0-0-6073aa16116ec5811fb123ff25e85350
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1724076006-0-0-b26cb46eac636e21584393c0fff9dcdd
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1724083202-0-0-79375515c7916b7aa1432e1ecc085c72
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1724083203-0-0-96d35d607a36ad5b201ea4d37e3d15b0
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1724083203-0-0-5bb1149215194f2bb1a0b0a88a790400
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1724083204-0-0-d9bb89cc4c4ac6647aa5892e99105701
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1724083205-0-0-3fb1da12d508a8fca72f36d6e6717f46
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1724083205-0-0-048a56b300f001102f377b563260c666
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -46,6 +46,8 @@ CCTV14,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV15,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+CCTV4K,https://pi.0472.org/livetv/cctv4k.m3u8
+重温经典,https://pi.0472.org/livetv/cwjd.m3u8
 CHC影迷电影,https://pi.0472.org/chc/ym.m3u8
 CHC动作电影,https://pi.0472.org/chc/dz.m3u8
 CHC家庭影院,https://pi.0472.org/chc/jt.m3u8
@@ -110,9 +112,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 咪咕直播 𝟜𝟝「IPV4」,http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
 卫视频道,#genre#
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
