@@ -8,12 +8,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1725580802-0-0-22eb2c738c81d64b50576899fab0e7d4
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1725580803-0-0-887bafe7bfd48c25c301183ae392fd1e
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1725580804-0-0-245e9deab92a77261ed77836821b8a52
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1725580804-0-0-1460eca060029cfe2ec8300184c6142e
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1725580805-0-0-ccf0c58569008f2e33fdd943eaaf894c
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1725580806-0-0-5400ce62e90080bb052086219324b6b6
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1725588002-0-0-9805747925c4f29905e69e2fa8ac56f6
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1725588003-0-0-abe4ac39924ea9fac5b8503b70f91c68
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1725588004-0-0-9874f0afba61a22296d41668533a58ae
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1725588004-0-0-7cea37c68e8ee37d47c198babe22b78f
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1725588005-0-0-b5a567a4a5e1bb8aca410dcb087f8b79
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1725588005-0-0-0b80feea62d2682e972ae9e9b67dc3b5
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -159,7 +159,7 @@ Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 江苏频道「UHD」,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 纯享4K,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
-华数4K,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+4K综艺,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
 数字电视,#genre#
 五星体育,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
