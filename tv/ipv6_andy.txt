@@ -8,12 +8,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1726444802-0-0-c498d678003077290c894423566fe3bc
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1726444802-0-0-2deddaecb2f23052ee76f96c829b3dcb
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1726444803-0-0-954e24f38966c3e0ad9143a330098ed0
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1726444804-0-0-27c486dc3715bf58e6ee24ebb0a2b47b
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1726444805-0-0-801db43243a25ceb4d26b2798f1b621b
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1726444805-0-0-84f4379c91e79e937c6d4f41f9ba1703
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1726452002-0-0-4bdcb947fc216ac420ba9bf01ef6315b
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1726452002-0-0-ed9bf4fc23bbe94cfe30fcb7faa5d173
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1726452003-0-0-f21b35b3617f97cfa05b31a367c3db22
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1726452004-0-0-39d6d37e6c1a883bc371506893169aee
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1726452004-0-0-980fa5325b1f8ac729fc21e613d9d773
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1726452005-0-0-56a6065131fb28fb06ebd1162d0fa685
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -154,7 +154,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 中国教育4台,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 4K,#genre#
-LOVE NATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+LOVENATURE4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 江苏频道「UHD」,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
