@@ -8,12 +8,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1729584001-0-0-a4cf1572f28b30a116bad5b367e036c2
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1729584002-0-0-bff6bf2a3b9d7a059bd42e00b5d37f07
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1729584003-0-0-28562bdbfd96aa68b9398eef3b76a727
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1729584003-0-0-7956f85b9d34257bc101e24baefc7d3b
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1729584004-0-0-e829f73aa8f6efb11abf4d13c1fd3b3c
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1729584005-0-0-63fb0f20ae9f97eba28d6fddfe1694f0
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1729591201-0-0-084e36615ca95710b8d1c548c8468b6a
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1729591202-0-0-1e2bdb9c185f67aa1f52153d05855935
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1729591202-0-0-3c7f50f4bc5d78129ed3b69246575a2f
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1729591203-0-0-5a7f250a566b4b98a0cde647f2a27df0
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1729591204-0-0-a9466fce65349a513253959248278dd1
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1729591205-0-0-2d9e6e141e40b7e29a191937069200e5
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -153,52 +153,52 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 咪咕直播 𝟜𝟝「IPV4」,http://gslbservstudent.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011531&livemode=1&stbId=3
 
 •咪咕「TV」,#genre#
-CCTV1,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv1
-CCTV2,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv2
-CCTV3,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv3
-CCTV4,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv4
-CCTV4美洲,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv4m
-CCTV4欧洲,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv4o
-CCTV5,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv5
-CCTV5+,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv5p
-CCTV6,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv6
-CCTV7,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv7
-CCTV8,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv8
-CCTV9,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv9
-CCTV10,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv10
-CCTV11,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv11
-CCTV12,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv12
-CCTV13,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv13
-CCTV14,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv14
-CCTV15,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv15
-CCTV17,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cctv17
+CCTV1,https://tv.iill.top/migu/cctv1
+CCTV2,https://tv.iill.top/migu/cctv2
+CCTV3,https://tv.iill.top/migu/cctv3
+CCTV4,https://tv.iill.top/migu/cctv4
+CCTV4美洲,https://tv.iill.top/migu/cctv4m
+CCTV4欧洲,https://tv.iill.top/migu/cctv4o
+CCTV5,https://tv.iill.top/migu/cctv5
+CCTV5+,https://tv.iill.top/migu/cctv5p
+CCTV6,https://tv.iill.top/migu/cctv6
+CCTV7,https://tv.iill.top/migu/cctv7
+CCTV8,https://tv.iill.top/migu/cctv8
+CCTV9,https://tv.iill.top/migu/cctv9
+CCTV10,https://tv.iill.top/migu/cctv10
+CCTV11,https://tv.iill.top/migu/cctv11
+CCTV12,https://tv.iill.top/migu/cctv12
+CCTV13,https://tv.iill.top/migu/cctv13
+CCTV14,https://tv.iill.top/migu/cctv14
+CCTV15,https://tv.iill.top/migu/cctv15
+CCTV17,https://tv.iill.top/migu/cctv17
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-广东卫视,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/gdws
-江苏卫视,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/jsws
-陕西卫视,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/sxws
-江西卫视,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/jxws
-海峡卫视,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/hxws
-湖北卫视,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/hubws
-上海纪实人文,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/shjs
-七彩戏剧,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/qcxj
-东方影视,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/shys
-CHC家庭影院,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/jtyy
-欢笑剧场,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/hxjc
-劲爆体育,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/jbty
-魅力足球,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/mlzq
-游戏风云,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/yxfy
-四海钓鱼,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/shdy
-经典香港电影,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/xgdy
-新片放映厅,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/xpdy
-英雄联盟赛事,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/lol
-咪咕24小时体育,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/mgty
-掼蛋精英赛,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/dds
-NBA经典,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/nba
-CBA经典,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/cba
-五大联赛经典,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/lsjd
-风云足球,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/fyzq
-UFC格斗精选,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/ufc
-全民乒乓,https://tv.xn--yhqu5zs87a.top/mao.php?url=https://tv.iill.top/migu/qmpp
+广东卫视,https://tv.iill.top/migu/gdws
+江苏卫视,https://tv.iill.top/migu/jsws
+陕西卫视,https://tv.iill.top/migu/sxws
+江西卫视,https://tv.iill.top/migu/jxws
+海峡卫视,https://tv.iill.top/migu/hxws
+湖北卫视,https://tv.iill.top/migu/hubws
+上海纪实人文,https://tv.iill.top/migu/shjs
+七彩戏剧,https://tv.iill.top/migu/qcxj
+东方影视,https://tv.iill.top/migu/shys
+CHC家庭影院,https://tv.iill.top/migu/jtyy
+欢笑剧场,https://tv.iill.top/migu/hxjc
+劲爆体育,https://tv.iill.top/migu/jbty
+魅力足球,https://tv.iill.top/migu/mlzq
+游戏风云,https://tv.iill.top/migu/yxfy
+四海钓鱼,https://tv.iill.top/migu/shdy
+经典香港电影,https://tv.iill.top/migu/xgdy
+新片放映厅,https://tv.iill.top/migu/xpdy
+英雄联盟赛事,https://tv.iill.top/migu/lol
+咪咕24小时体育,https://tv.iill.top/migu/mgty
+掼蛋精英赛,https://tv.iill.top/migu/dds
+NBA经典,https://tv.iill.top/migu/nba
+CBA经典,https://tv.iill.top/migu/cba
+五大联赛经典,https://tv.iill.top/migu/lsjd
+风云足球,https://tv.iill.top/migu/fyzq
+UFC格斗精选,https://tv.iill.top/migu/ufc
+全民乒乓,https://tv.iill.top/migu/qmpp
 
 卫视频道,#genre#
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
