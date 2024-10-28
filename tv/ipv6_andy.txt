@@ -8,12 +8,12 @@
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1730131201-0-0-2cad1736270ee711fb8f13f4bd476673
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1730131202-0-0-a8847b99506dace5d22e989bb2c9fa6f
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1730131203-0-0-2e59b927b9acf158b7fc41ea5d56b3f8
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1730131204-0-0-37a30a84c446d8ed35338a8ab81f78ae
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1730131204-0-0-78ce96a3ffdfb62fac1bdd4698130a65
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1730131205-0-0-cba321b8d212659c53ccdc55f537ecfe
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1730138402-0-0-1184b153373d72d033121ad299304bc6
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1730138403-0-0-bba0327421402832ee6776d575da955f
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1730138403-0-0-90fb6d4c2e51d7b512991388929b3f01
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1730138404-0-0-9b1e1a02512bf97fd4b29267a0ac1192
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1730138405-0-0-15458672cfc50439034c8a7ca029bbbd
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1730138406-0-0-f76b4cb91aa2c21a8340651a90179fff
 杭州综合,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/1.m3u8
 西湖明珠,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/1.m3u8
 青少·体育频道,http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/1.m3u8
@@ -29,7 +29,7 @@
 
 央视频道,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
-CCTV2,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000502/index.m3u8?
+CCTV2,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002135/index.m3u8
 CCTV3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
 CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
 CCTV5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
@@ -201,9 +201,6 @@ UFC格斗精选,https://tv.iill.top/migu/ufc
 全民乒乓,https://tv.iill.top/migu/qmpp
 
 卫视频道,#genre#
-凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰香港,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226450/index.m3u8
 湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226307/index.m3u8
 东方卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226345/index.m3u8
