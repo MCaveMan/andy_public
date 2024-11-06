@@ -13,17 +13,17 @@
 浙江经视,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 浙江钱江都市,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/1/index.m3u8?fmt=ts2hls
-浙江经济生活,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233008/1/index.m3u8?fmt=ts2hls
+浙江经视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233008/1/index.m3u8?fmt=ts2hls
 浙江教科影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233002/1/index.m3u8?fmt=ts2hls
-浙江民生,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/1/index.m3u8?fmt=ts2hls
+浙江民生休闲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/1/index.m3u8?fmt=ts2hls
 浙江公共新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/1/index.m3u8?fmt=ts2hls
 浙江少儿,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/1/index.m3u8?fmt=ts2hls
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1730865602-0-0-6bdb82b3be07aebe1863feaffc881e09
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1730865603-0-0-4c91c5eb5e81d8d02bdcf0a8da3b66c1
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1730865603-0-0-ece8392ff9e0874cf8385d9201e8a728
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1730865604-0-0-b91b107e4098187409450ef601a0480d
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1730865605-0-0-072be03caff0eb019d2fb047791f990a
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1730865605-0-0-9846bb85440a495829f2ab55f6104f5c
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1730872802-0-0-3c1eb6414bcf6c8d53f8afbca8b46fe6
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1730872802-0-0-a8f2890997204d0faabbb1cee443e8a6
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1730872803-0-0-d70a67421353a567396d4bf8b6298f46
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1730872804-0-0-554fd67075326b635b0ed8f57f5efe55
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1730872805-0-0-1d835bc5246f27bba30decc179c31e64
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1730872805-0-0-cef102b670dd61486ff53443356c9d4c
 浙江卫视,http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324/01.m3u8?fmt=ts2hls
 浙江公共新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 浙江国际,http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/01.m3u8?fmt=ts2hls
@@ -108,7 +108,7 @@ CCTV16,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232705/1/ind
 CCTV17,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236200/index.m3u8
 CCTV4K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/396328931.smil/index.m3u8?fmt=ts2hls
 CCTV8K,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236272/index.m3u8
-高尔夫网球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/396328931.smil/index.m3u8?fmt=ts2hls
+CCTV 高尔夫·网球,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630/396328931.smil/index.m3u8?fmt=ts2hls
 CCTV1,http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265001&livemode=1&stbId=3
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
