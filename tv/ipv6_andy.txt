@@ -18,12 +18,12 @@
 浙江民生休闲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/1/index.m3u8?fmt=ts2hls
 浙江公共新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/1/index.m3u8?fmt=ts2hls
 浙江少儿,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/1/index.m3u8?fmt=ts2hls
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1731549601-0-0-bc628a0c2ea80206260f05cc00691f4d
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1731549602-0-0-5ebf09703ac188c96d632a6277bc6b1a
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1731549603-0-0-b3c9e0633d9c0429f919ac7e5e6333df
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1731549603-0-0-2e32c20fcf875e38cce89023f95347ed
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1731549604-0-0-7436d7262f299c57e1f2b7f00e9143e7
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1731549605-0-0-81e0dba3ab5aeaa1762817d5c1be7b2d
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1731556803-0-0-ffb747067104af6641666a4b34f1a192
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1731556804-0-0-afe6e12ed44ecb1d67147993e832ddd2
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1731556804-0-0-f22e72f45192d5c0068ddfa5b5649691
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1731556805-0-0-090637e694d52ad6e60fd12ec71d1310
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1731556806-0-0-b82b7a177389d1f665a05f0427c35aa1
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1731556807-0-0-ac7f8b6badb38d9b8af4e1dc22a13c54
 浙江卫视,http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324/01.m3u8?fmt=ts2hls
 浙江公共新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 浙江国际,http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/01.m3u8?fmt=ts2hls
@@ -307,7 +307,7 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 浙江卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000531/index.m3u8
 海南卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000037/index.m3u8
 湖北卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000522/index.m3u8
-山西卫视,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002214/index.m3u8
+山西卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8
 东南卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000519/index.m3u8
 贵州卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000036/index.m3u8
 辽宁卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000526/index.m3u8
