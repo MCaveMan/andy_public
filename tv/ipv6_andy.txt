@@ -18,12 +18,12 @@
 浙江民生休闲,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/1/index.m3u8?fmt=ts2hls
 浙江公共新闻,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/1/index.m3u8?fmt=ts2hls
 浙江少儿,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/1/index.m3u8?fmt=ts2hls
-杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1736071202-0-0-60679b1c2595de3dc61c82419f517317
-西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1736071202-0-0-6e172e8cd4af24ed68e9a8d9e89c0d96
-杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1736071203-0-0-24c66b6b5cae47f95ddd08ba06dfda29
-青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1736071204-0-0-0d3f47f45487e79001a343d02d24a951
-杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1736071204-0-0-4e377814dd9266e1cc91f4901265df8e
-文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1736071205-0-0-ce186fa52bcb6aa72926dd74053f75b1
+杭州综合,https://live.hoolo.tv/hztv1/hd/live.m3u8?auth_key=1736078402-0-0-7a501662dbc9e28e024d1e605d63fe67
+西湖明珠,https://live.hoolo.tv/hztv2/hd/live.m3u8?auth_key=1736078402-0-0-89fc97d0389b6e2f447da8e2c9aa8300
+杭州生活,https://live.hoolo.tv/hztv3/hd/live.m3u8?auth_key=1736078403-0-0-2368f75d38c372ab8b729098bbf7538f
+青少·体育频道,https://live3.hoolo.tv/hztv5/hd/live.m3u8?auth_key=1736078404-0-0-e83e8d09507ec4cb7fdfdf95eff857da
+杭州影视,https://live3.hoolo.tv/hztv4/hd/live.m3u8?auth_key=1736078404-0-0-521fe9e475e6580a2fe8cffad7bbc843
+文化频道,https://live3.hoolo.tv/hztv6/hd/live.m3u8?auth_key=1736078405-0-0-0eb72d88e390bcf74b56bee84c4a3c82
 浙江卫视,http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324/01.m3u8?fmt=ts2hls
 浙江公共新闻,http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 浙江国际,http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/01.m3u8?fmt=ts2hls
@@ -437,7 +437,7 @@ CCTV4K,http://117.148.187.56/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3
 LOVENATURE4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-纯享4K,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+纯享4K,http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=YanG-1989
 华数4K,http://[2409:8087:5e08:24::d]:6610/000000001000/1/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=YanG-1989
 欢笑剧场,http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=YanG-1989
 CCTV16,http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=YanG-1989
@@ -473,6 +473,9 @@ CCTV16,http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000008000023254/ind
 武搏世界,http://[2409:8087:5e08:24::d]:6610/000000001000/1/2000000003000000007/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000007&livemode=1&stbId=YanG-1989
 明星大片,http://[2409:8087:5e08:24::d]:6610/000000001000/1/1000000004000019008/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019008&livemode=1&stbId=YanG-1989
 中国天气,http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=YanG-1989
+CHC家庭影院,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CHC动作电影,http://[2409:8087:7008:20::2]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+CHC影迷电影,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 求索纪录,http://[2409:8087:5e08:24::d]:6610/000000001000/1/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=YanG-1989
 求索生活,http://[2409:8087:5e08:24::d]:6610/000000001000/1/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=YanG-1989
 求索动物,http://[2409:8087:5e08:24::d]:6610/000000001000/1/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=YanG-1989
