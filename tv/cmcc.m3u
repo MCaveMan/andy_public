@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz,http://epg.51zmt.top:8000/e.xml.gz"
+#EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/erw.xml.gz"
 #EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://live.935181.xyz/LOGO/杭州综合.png" group-title="浙江",杭州综合
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/index.m3u8
 #EXTINF:-1 tvg-name="西湖明珠" tvg-logo="https://live.935181.xyz/LOGO/杭州西湖明珠.png" group-title="浙江",杭州西湖明珠
@@ -401,6 +401,7 @@ https://ali-m-l.cztv.com/channels/lantian/fm996/128k.m3u8
 http://live.xmcdn.com/live/632/64.m3u8
 #EXTINF:-1 tvg-name="杭州交通广播" tvg-logo="https://live.935181.xyz/LOGO/杭州交通广播.png" group-title="广播",杭州交通广播
 http://ls.qingting.fm/live/1133.m3u8
+
 
 
 
