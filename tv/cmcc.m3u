@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://iptvtool.5201659.xyz/t.xml.gz"
+#EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://iptv.5201659.xyz/logo-pack/%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2.png?v=a938e616dd" group-title="体育",纬来体育
+https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
 #EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://live.935181.xyz/LOGO/杭州综合.png" group-title="浙江",杭州综合
 http://39.134.176.167/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/index.m3u8
 #EXTINF:-1 tvg-name="西湖明珠" tvg-logo="https://live.935181.xyz/LOGO/杭州西湖明珠.png" group-title="浙江",杭州西湖明珠
